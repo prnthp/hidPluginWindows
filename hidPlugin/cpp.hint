@@ -1,0 +1,2 @@
+#define HIDPLUGIN_API __declspec(dllexport)
+#define HIDPLUGIN_API __declspec(dllimport)
