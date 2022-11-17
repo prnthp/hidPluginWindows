@@ -43,6 +43,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="Libs\hidapi.lib" />
+    <Library Include="Libs\ARM64\hidapi.lib" />
+    <Library Include="Libs\x64\hidapi.lib" />
   </ItemGroup>
 </Project>
